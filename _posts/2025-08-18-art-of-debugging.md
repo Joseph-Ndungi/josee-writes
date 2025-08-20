@@ -1,10 +1,11 @@
-
 ---
 title: "Debugging Mindset"
 date: 2025-08-17
 categories: [Debugging]
 tags: [Debugging]
 canonical_url: ""
+image: https://images.pexels.com/photos/1181271/pexels-photo-1181271.jpeg
+---
 
 ### Beyond the Code: How to Adopt a Debugging Mindset for Everyday Problems
 

@@ -37,7 +37,7 @@ social:
   email: josephn@innova.co.ke # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/Joseph_Ndungi_ # change to your twitter homepage
+    - https://joseph-ndungi.vercel.app/ # change to your twitter homepage
     - https://github.com/Joseph-Ndungi_ # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
