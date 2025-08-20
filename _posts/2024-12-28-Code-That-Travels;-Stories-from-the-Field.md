@@ -1,6 +1,6 @@
 ---
 title: "Successful Client-Facing Missions: National Bank of Rwanda"
-date: 2025-08-04
+date: 2024-12-28
 categories: []
 tags: [Innova]
 canonical_url: ""
