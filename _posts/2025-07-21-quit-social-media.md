@@ -5,6 +5,7 @@ categories: [Productivity, Book Review, Innova]
 tags: [Book Review]
 canonical_url: "https://blogs.innova.co.ke/quit-social-media/"
 image: https://blogs.innova.co.ke/assets/images/quit-social-media.jpg
+description: "You don’t have to quit social media entirely to reclaim your focus. In the blog below, I explore how to apply Rule 3—“Quit Social Media”—from Deep Work by Cal Newport, showing how a tech‑savvy individual can use social media intentionally."
 ---
 
 ## Reclaiming Focus as a Software Engineer

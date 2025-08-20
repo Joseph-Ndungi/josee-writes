@@ -5,6 +5,7 @@ categories: [FinTech, Banking, Innova]
 tags: [Credit]
 canonical_url: "https://blogs.innova.co.ke/alternative-data/"
 image: https://blogs.innova.co.ke/assets/images/alternativeData.jpg
+description: "Saw a LinkedIn post about how banks use app data to understand customers better. Here's a quick dive into alternative data: how it's used in finance, where it's coming from, and why it matters."
 ---
 
 # Alternative Data – The New Frontier in Financial Intelligence

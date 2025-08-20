@@ -5,6 +5,7 @@ categories: [Scaling]
 tags: [Scaling]
 canonical_url: "https://blogs.innova.co.ke/why-scaling-is-vital/"
 image: https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+description: "Through difficult experiences we discovered that scaling processes lack glamour. This article examines developmental trajectory by scrutinizing the missteps that results in failure while emphasizing the essential need for constructing a robust base to support growth."
 ---
 
 ### **Scaling: Why Small Failures Become Big Problems**

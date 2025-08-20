@@ -1,3 +1,13 @@
+---
+title: "How Uber Works Under the Hood: A Peek into Its System Design"
+date: 2025-02-17
+categories: [Software Engineer]
+tags: []
+canonical_url: ""
+image: https://images.unsplash.com/photo-1516733968668-dbdce39c4651?q=80&w=1228&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+description: "Curious how Uber seamlessly connects millions of riders and drivers? This post gives a high-level look at its system architecture, from real-time matching to scalable microservices."
+---
+
 # **How Uber Works Under the Hood: A Peek into Its System Design**
 
 ---

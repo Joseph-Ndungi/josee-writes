@@ -5,6 +5,7 @@ categories: [Hobbies]
 tags: [Cycling, Hobbies]
 canonical_url: "https://dev.to/josephndungi/navigating-kenyan-roads-on-two-wheels-127c"
 image: https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhgn9vrlf5q7hxz30mmdf.jpeg
+description: "Is it safe to cycle on Kenyan roads? It's the biggest question holding people back. I decided to find out for myself. Short answer: YES, if you're smart about it. Wrote a full beginner's guide on how to do it safely and why it's the best hobby I've picked up for myself so far this year."
 ---
 
 

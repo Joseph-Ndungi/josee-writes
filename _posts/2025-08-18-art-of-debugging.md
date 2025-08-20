@@ -5,6 +5,7 @@ categories: [Debugging]
 tags: [Debugging]
 canonical_url: ""
 image: https://images.pexels.com/photos/1181271/pexels-photo-1181271.jpeg
+description: "Debugging mindset, solving a crime where you are the murderer"
 ---
 
 ### Beyond the Code: How to Adopt a Debugging Mindset for Everyday Problems

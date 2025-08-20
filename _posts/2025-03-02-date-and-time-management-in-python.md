@@ -5,6 +5,7 @@ categories: [Python, Date]
 tags: [Date Management]
 canonical_url: "https://blogs.innova.co.ke/date-and-time-management-in-python/"
 image: https://blogs.innova.co.ke/assets/images/time.jpg
+description: "Time zones can be a nightmare for developers.  In this high-level blog, I cover key challenges in date & time management—storing timestamps, handling conversions, dealing with DST, and scheduling across time zones. There’s a lot more to explore, but this should give you a solid starting point."
 ---
 
 # **A Guide to Date & Time Management in Python**  

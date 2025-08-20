@@ -5,6 +5,8 @@ categories: [Python]
 tags: [Python and C#]
 canonical_url: "https://blogs.innova.co.ke/transitioning-from-Python-to-C(sharp)-Key-Takeaways/"
 image: https://images.unsplash.com/photo-1454779132693-e5cd0a216ed3?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+description: "Python has recently passed Javascript and is now the number one language on GitHub. Is it because of the AI Revolution?
+This blog chronicles my journey transitioning to .NET and C#, focusing on creating web APIs with ASP.NET Core. It contrasts my previous experiences with TypeScript and Python, particularly using Django and Flask, highlighting the exciting shifts and learning opportunities."
 ---
 
 # Transitioning from TypeScript and Python to C#: Key Takeaways

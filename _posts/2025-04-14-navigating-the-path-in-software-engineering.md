@@ -5,6 +5,7 @@ categories: [Software Engineering]
 tags: [Career]
 canonical_url: "https://dev.to/josephndungi/the-pressure-is-real-1m91"
 image: https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnxmu1ydpgjbst0hq5zj3.jpg
+description: "Starting out just trying to keep up as an intern, now growing through the grind as a junior dev—here’s a look at the lessons, the missteps, and what it really takes to aim for senior roles."
 ---
 
 # From Junior to Senior: Navigating the Path in Software Engineering

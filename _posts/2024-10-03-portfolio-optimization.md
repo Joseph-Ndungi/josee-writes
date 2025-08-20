@@ -2,9 +2,10 @@
 title: "Portfolio Optimization"
 date: 2024-10-03
 categories: [Analytics]
-tags: [Portfolio Optimization, analytics]
+tags: [Portfolio Optimization, Statistics]
 canonical_url: "https://www.innova.co.ke/portfolio-optimization/"
 image: https://plus.unsplash.com/premium_photo-1664478157873-50d4963c1d11?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+description: "Explore the fundamentals of portfolio optimization in both discrete and continuous time. Whether you're new to the concepts or looking to deepen your knowledge, we'll break down the key principles and lay the groundwork for understanding how to optimize investments across different time frames."
 ---
 
 # Portfolio Optimization

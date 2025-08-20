@@ -5,6 +5,7 @@ categories: [Testing]
 tags: [Automation]
 canonical_url: "https://blogs.innova.co.ke/web-api-testing/"
 image: https://images.unsplash.com/photo-1650530415027-dc9199f473ec?q=80&w=1333&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+description: "APIs power your apps, but failures can frustrate users and break trust. I tried to explore how auth issues, poor error handling, and slow responses impact the user experience."
 ---
 
 # **Web API Testing: Building Trust Through Automation**

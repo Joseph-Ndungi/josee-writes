@@ -5,6 +5,7 @@ categories: [Hobbies]
 tags: [Hiking, Hobbies, Innova]
 canonical_url: "https://blogs.innova.co.ke/ragia-falls-hike/"
 image: https://blogs.innova.co.ke/assets/images/ragia.jpeg
+description: "Reflecting on an epic Saturday with Innova Fitness at Ragia Forest & Falls. The lush greenery, the historical whispers, and that refreshing waterfall at the end made every step worth it."
 ---
 
 ## Innova Fitness Squad: Ragia Forest & Falls Hike
