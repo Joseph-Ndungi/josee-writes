@@ -4,6 +4,7 @@ date: 2025-02-02
 categories: [Productivity, Feedback Management, Software Engineer]
 tags: [Productivity]
 canonical_url: "https://blogs.innova.co.ke/maximizing-productivity-as-a-software-engineer/"
+image: https://plus.unsplash.com/premium_photo-1667238586553-e4ddb2b0cdbb?q=80&w=1062&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
   
 
@@ -122,10 +123,10 @@ It’s not always possible to enter a deep work state—especially with meetings
 
 When you have too many tasks, it’s easy to get overwhelmed. The **Eisenhower Matrix** helps you decide **what to work on first** by categorizing tasks into:  
 
-| **Urgent**      | **Not Urgent**  |  
-|-----------------|----------------|  
-| 🔴 **Urgent & Important** (Do Now) – Fixing a production bug, meeting a deadline.  | 🟡 **Important but Not Urgent** (Schedule) – Learning new tech, writing clean code.  |  
-| 🔵 **Urgent but Not Important** (Delegate) – Answering some emails, non-critical meetings.  | ⚪ **Neither Urgent Nor Important** (Eliminate) – Endless social media scrolling (I do love Instagram reels).  |  
+| **Urgent**                                                                                | **Not Urgent**                                                                                               |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| 🔴 **Urgent & Important** (Do Now) – Fixing a production bug, meeting a deadline.          | 🟡 **Important but Not Urgent** (Schedule) – Learning new tech, writing clean code.                           |
+| 🔵 **Urgent but Not Important** (Delegate) – Answering some emails, non-critical meetings. | ⚪ **Neither Urgent Nor Important** (Eliminate) – Endless social media scrolling (I do love Instagram reels). |
 
 💡 **How to use it:** If a task is both urgent **and** important, tackle it first. If it’s important but not urgent, schedule time for it. This method keeps you focused on what truly matters.  
 

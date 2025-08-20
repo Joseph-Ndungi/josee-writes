@@ -4,6 +4,7 @@ date: 2025-03-02
 categories: [Python, Date]
 tags: [Date Management]
 canonical_url: "https://blogs.innova.co.ke/date-and-time-management-in-python/"
+image: https://blogs.innova.co.ke/assets/images/time.jpg
 ---
 
 # **A Guide to Date & Time Management in Python**  

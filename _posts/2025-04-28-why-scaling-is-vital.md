@@ -2,8 +2,9 @@
 title: "Scaling: Why Small Failures Become Big Problems"
 date: 2025-04-28
 categories: [Scaling]
-tags: [Scaling]
+tags: [Scaling], Innova]
 canonical_url: "https://blogs.innova.co.ke/why-scaling-is-vital/"
+image: https://blogs.innova.co.ke/assets/images/scaling.jpg
 ---
 
 ### **Scaling: Why Small Failures Become Big Problems**

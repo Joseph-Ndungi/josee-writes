@@ -4,6 +4,7 @@ date: 2024-11-02
 categories: [Python]
 tags: [Python and C#]
 canonical_url: "https://blogs.innova.co.ke/transitioning-from-Python-to-C(sharp)-Key-Takeaways/"
+image: https://images.unsplash.com/photo-1454779132693-e5cd0a216ed3?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
 # Transitioning from TypeScript and Python to C#: Key Takeaways

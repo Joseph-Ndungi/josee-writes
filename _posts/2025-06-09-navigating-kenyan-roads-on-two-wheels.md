@@ -3,7 +3,8 @@ title: "Navigating Kenyan Roads on Two Wheels"
 date: 2025-06-09
 categories: [Hobbies]
 tags: [Cycling, Hobbies]
-canonical_url: ""
+canonical_url: "https://dev.to/josephndungi/navigating-kenyan-roads-on-two-wheels-127c"
+image: https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhgn9vrlf5q7hxz30mmdf.jpeg
 ---
 
 

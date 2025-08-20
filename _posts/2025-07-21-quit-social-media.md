@@ -1,9 +1,10 @@
 ---
 title: "Quit Social Media"
 date: 2025-07-21
-categories: [Productivity, Book Review]
+categories: [Productivity, Book Review, Innova]
 tags: [Book Review]
-canonical_url: ""
+canonical_url: "https://blogs.innova.co.ke/quit-social-media/"
+image: https://blogs.innova.co.ke/assets/images/quit-social-media.jpg
 ---
 
 ## Reclaiming Focus as a Software Engineer

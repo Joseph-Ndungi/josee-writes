@@ -3,7 +3,8 @@ title: "Performance and Scalability"
 date: 2025-08-04
 categories: [Scaling]
 tags: [Scaling]
-canonical_url: ""
+canonical_url: "https://dev.to/josephndungi/performance-and-scalability-3koo"
+image: https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff8tp23jjvq63op7xb77l.jpg
 ---
 
 # **From Timeouts to Triumph: A Practical Guide to High-Performance APIs**

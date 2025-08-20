@@ -3,7 +3,8 @@ title: "Ragia Forest & Falls Hike"
 date: 2025-06-22
 categories: [Hobbies]
 tags: [Hiking, Hobbies, Innova]
-canonical_url: ""
+canonical_url: "https://blogs.innova.co.ke/ragia-falls-hike/"
+image: https://blogs.innova.co.ke/assets/images/ragia.jpeg
 ---
 
 ## Innova Fitness Squad: Ragia Forest & Falls Hike

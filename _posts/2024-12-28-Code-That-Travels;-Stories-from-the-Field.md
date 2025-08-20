@@ -1,3 +1,12 @@
+---
+title: "Successful Client-Facing Missions: National Bank of Rwanda"
+date: 2025-08-04
+categories: []
+tags: [Innova]
+canonical_url: ""
+image: https://plus.unsplash.com/premium_photo-1670689707787-ac9a9dd082e2?q=80&w=1315&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+---
+
 # **When the Demo gods Smile**
 
 Stepping into the realm of client-facing missions is as exhilarating as it is challenging. For developers, it’s not just about delivering a product but ensuring a seamless experience for the client. This blog reflects on the preparation, challenges, and ultimate satisfaction of executing a successful mission—even in the unpredictable world of live demos.
