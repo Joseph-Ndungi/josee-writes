@@ -74,8 +74,8 @@ I discovered a subtle but crucial difference between the two main sources of sta
 
 |     Statement Source     |                          Withdrawn Column                           |         Encryption         | Key Difference for Logic                                                                                          |
 | :----------------------: | :-----------------------------------------------------------------: | :------------------------: | :---------------------------------------------------------------------------------------------------------------- |
-|   **Email Statement**    | Uses **negative values** (e.g., $-1,500.00$) to denote withdrawals. |   Usually **Encrypted**.   | The negative sign makes it easy for the regex to correctly identify a withdrawal.                                 |
-| **M-PESA App Statement** |  Uses **absolute values** (e.g., $1,500.00$) for all transactions.  | Usually **Not Encrypted**. | Lacks a negative sign, making it extremely difficult to distinguish between a *Paid In* and a *Withdrawn* amount. |
+|   **Email Statement**    | Uses **negative values** (e.g., -1,500.00) to denote withdrawals. |   Usually **Encrypted**.   | The negative sign makes it easy for the regex to correctly identify a withdrawal.                                 |
+| **M-PESA App Statement** |  Uses **absolute values** (e.g., 1,500.00) for all transactions.  | Usually **Not Encrypted**. | Lacks a negative sign, making it extremely difficult to distinguish between a *Paid In* and a *Withdrawn* amount. |
 
 My initial logic, which works perfectly for the **email version**, relies on identifying that negative sign:
 
@@ -225,14 +225,14 @@ You’ll find:
 For the data nerds (me included), this section dives into:
 
 * **Periodic Cashflow Analysis** — tracking how money moves across days, weeks, or months.
-* Charts for **Cashflow**, **Category Trends**, and **Merchant Trends**, giving you that “aha” moment when you realize where most of your spending goes (hint: probably food delivery).
+* Charts for **Cashflow**, **Category Trends**, and **Merchant Trends**, giving you that “aha” moment when you realize where most of your spending goes.
 
 ### 🔄 Trends
 
 Finally, the **Trends** section ties everything together with:
 
 * **Balance Summary** — how your M-PESA balance evolved over time.
-* **Spending Efficiency Summary** — comparing inflows vs outflows to measure your “saving discipline.”
+* **Spending Efficiency Summary** — comparing inflows vs outflows.
 * Visuals for the selected period: *Spending Trends* and *M-PESA Balance Evolution Over Time.*
 
 All in all, it’s a neat, private, and slightly humbling look at where your hard-earned cash actually goes — but hey, at least now the analysis part looks good 😅.
