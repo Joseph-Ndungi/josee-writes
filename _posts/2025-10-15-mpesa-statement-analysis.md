@@ -66,7 +66,7 @@ Parsing felt chaotic at times, but every bug fixed forced me to structure the co
 
 -----
 
-## The Core Struggle: Extracting Amounts 💸
+## The Core Struggle
 
 The most crucial challenge was accurately identifying and extracting the **amount** of a transaction and determining if it was a **deposit** (money *Paid In*) or a **withdrawal** (money *Withdrawn*).
 
