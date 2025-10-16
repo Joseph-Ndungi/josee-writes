@@ -166,6 +166,7 @@ def categorize_transaction(details: str) -> str:
         return "Person-to-Person"
     elif "withdraw" in details:
         return "Withdrawal"
+    elif ...
     else:
         return "Other"
     # ... some transactions are currently falling into the generic 'Other' category
