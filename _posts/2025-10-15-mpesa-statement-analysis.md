@@ -18,7 +18,7 @@ description: "How a dormant repo turned into a working M-PESA statement analysis
 
 If you live in Kenya, **M-PESA** isn't just a mobile wallet; it's the financial **central nervous system** of your life. Some earnings, every grocery run, every bill payment flows through it.
 
-But here’s the challenge: Ever downloaded your official M-PESA statement and squinted at the wall of text, thinking, *"There has to be an easier way to see exactly where my money vanished this month?"* 🧐
+But here’s the challenge: Ever downloaded your official M-PESA statement and squinted at the wall of text, thinking, *"There has to be an easier way to see exactly where my money vanished this month?"* 
 
 That thought was the spark for this project—a mission to create a personal finance tool that could **automatically analyze expenditures directly from M-PESA PDF statements**. The core goal was straightforward: **extract, categorize, and visualize spending patterns** to bring clarity to chaos. Simple in theory, but as is often the case in programming, the devil was waiting patiently in the details.
 
@@ -98,7 +98,7 @@ This elegant system utterly fails with the app-generated PDF because the negativ
 
 -----
 
-## From Terminal Scripts to an Interactive UI 🎨
+## From Terminal Scripts to an Interactive UI 
 
 My analysis started as a bare-bones **Python script**, executed from the terminal with command-line arguments. But soon, I realized running a script wasn't convenient for regular use.
 
@@ -117,7 +117,7 @@ The application currently provides an immediate, visual picture of my finances:
 
 -----
 
-## Crucial Lessons Learned on the Journey 💡
+## Crucial Lessons Learned on the Journey 
 
 Every programmer knows the path to a finished project is paved with painful but necessary lessons. Here are the most valuable takeaways:
 
@@ -128,11 +128,11 @@ Every programmer knows the path to a finished project is paved with painful but 
 
 -----
 
-## Future Work and Recommendations for a Robust Tool 🚀
+## Future Work and Recommendations for a Robust Tool 
 
 Moving forward, the goal is to transform this tool from a functional script with a UI into a truly robust and production-ready application.
 
-### 1\. The Duplicate Data Nightmare 🤯
+### 1\. The Duplicate Data Nightmare 
 
 When a user merges two statement periods (e.g., January-March and March-June), avoiding duplicate transactions is absolutely critical. Logically, the **Receipt Number** (Transaction ID) should be the unique key.
 
@@ -207,7 +207,7 @@ Beyond the core data features, the user experience needs to become more proactiv
 
 ### 4\. The Deep Dive
 
-Now, let’s talk about what actually happens once you upload that M-PESA statement (and yes — I’d love to show the actual numbers, but they’re a little too “personal finance 101” for the internet 😅).
+Now, let’s talk about what actually happens once you upload that M-PESA statement (and yes — I’d love to show the actual numbers, but they’re a little too “personal finance 101” for the internet ).
 
 The dashboard is divided into a few main sections — each serving a specific purpose in making sense of your money flow:
 
