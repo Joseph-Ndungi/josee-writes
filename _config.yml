@@ -72,8 +72,7 @@ theme_mode: #[light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://instagram.fnbo9-1.fna.fbcdn.net/v/t51.2885-19/422049199_924723982589775_2559171524602269996_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fnbo9-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QEFeR_GFhbNwdlGuLcHwCInS4Yf9jBR4My1Os2cStwc0klvHDKg1ZJHKpFlpWDgB48&_nc_ohc=BvSGGkWNz90Q7kNvwEyigx_&_nc_gid=exEG2KH6mg5BAIEk-0ml5g&edm=AEYEu-QBAAAA&ccb=7-5&oh=00_AfiCXPMqDvfpFTR2K8K4My496BdDfBj_tMa9Ahf5WLjcfQ&oe=692F5502&_nc_sid=ead929
-#avatar: .\assets\images\me.jpeg
+avatar: https://drive.google.com/file/d/1SQHk-ao90uxOuh9hsIGaiExiZ6jQGlZ0/view?usp=sharing
 
 # boolean type, the global switch for TOC in posts.
 toc: true
