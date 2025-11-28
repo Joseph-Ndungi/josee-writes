@@ -12,7 +12,7 @@ description: WTHelly
 
 **"A Love Letter to the Inanimate Objects More Reliable Than My Love Life"**
 
-Sometimes I still reach for you in the quiet, forgetting that you're just my phone charger and you can't actually hug me back.
+Sometimes I still reach for you in the quiet, forgetting that you're just my phone and you can't actually hug me back.
 
 But honestly? You've been more consistent than most people in my life, so let's call it even.
 
@@ -26,7 +26,7 @@ My coffee has seen me at my worst. Crashing out over a Teams Chat. Celebrating b
 
 **My Laptop: The Friend Who Actually Listens**
 
-My laptop knows more about me than most people. It's seen every weird 5am Google search ("can you strain a muscle from sitting too long" yes, yes you can). It's held all my passwords, my bad poetry, my even worse attempts at budgeting.
+My laptop knows more about me than most people. It's seen every weird 5am Google search ("can you strain a muscle from sitting too long" yes, yes you can). It's held all my passwords, my incomplete ToDo tasks, the unfinished projects and my crazy attempts at budgeting.
 
 Sure, it's slow sometimes. Sure, the battery life is basically a joke at this point. But it's *there*. It doesn't cancel plans. It doesn't leave me on read. When I open it up, it's like "hey, welcome back, here's exactly where you left off, including those 47 tabs you refuse to close."
 
@@ -38,11 +38,11 @@ This is the only space in my life where I have complete control. My shitty relat
 
 **My iPhone 12: The Relationship That Actually Works**
 
-I have a 50" screen that I bought with my own hard-earned money. A whole TV that's supposed to be for, I don't know, watching movies like a normal person? And where am I instead? Hunched over my iPhone, if I'm not working, like it holds the secrets to the universe.
+I have a 50" screen that I bought with my own hard-earned money. A whole TV that's supposed to be for, I don't know, watching movies like a normal person? And where am I instead? Hunched over my iPhone if I'm not working like it holds the secrets to the universe.
 
 Because honestly? It kind of does.
 
-This phone has been with me through everything. Bad dates where I'm texting my friends live updates under the table. Good dates that turned into bad situations (with the receipts still in my messages to prove I should've seen it coming). That time I thought I could "fix" someone (spoiler: nope, but my Notes app has a whole essay about it).
+This phone has been with me through everything. Bad dates where I'm texting my friends live updates under the table: One was so bad that I texted my buddy to call and lie there's an emergency, story for another day. Good dates that turned into bad situations (with the receipts still in my messages to prove I should've seen it coming). That time I thought I could "fix" someone (spoiler: nope, but my Notes app has a whole essay about it).
 
 If I'm not listening to podcasts that make me feel like I'm learning something while doing absolutely nothing productive, I'm on X watching people argue about things that don't matter, or I'm deep in the IG reels watching all kinda shit."
 
