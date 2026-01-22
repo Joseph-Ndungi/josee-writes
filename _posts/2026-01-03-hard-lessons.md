@@ -1,6 +1,6 @@
 ---
 title: "The Deal I Lost Before It Even Started"
-date: 2025-12-29
+date: 2026-01-03
 categories: [Life]
 tags: [Life]
 canonical_url: ""
