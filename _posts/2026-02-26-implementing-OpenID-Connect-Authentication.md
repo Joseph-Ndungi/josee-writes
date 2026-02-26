@@ -140,14 +140,9 @@ export const routes: Routes = [
   { path: 'login', component: LoginComponent },
 
   {
-    path: '',
-    component: LayoutComponent,
+    path: 'dashboard',
     canActivate: [AuthorizationGuard],
-    children: [
-      { path: '', redirectTo: 'dashboard', pathMatch: 'full' },
-      { path: 'dashboard', component: DashboardComponent },
-      { path: 'management', component: LicenceManagementComponent }
-    ]
+    component: DashboardComponent ,
   },
 
   { path: '**', redirectTo: '/login' }
