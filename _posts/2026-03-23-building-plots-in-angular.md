@@ -194,6 +194,4 @@ Start simple. Focus on one plot. Then grow your solution step by step.
 
 In my case, moving charts into a popup and supporting multiple datasets made a big difference in usability.
 
----
-
 Happy Coding!
