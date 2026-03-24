@@ -256,7 +256,7 @@ In simple terms:
 
 This difference affects how much structure the framework enforces.
 
----
+
 
 ## Conclusion
 
