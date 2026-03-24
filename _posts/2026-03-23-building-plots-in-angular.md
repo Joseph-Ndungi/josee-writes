@@ -1,6 +1,6 @@
 ---
 title: "Building Plots in Angular for Data Visualization"
-date: 2026-23-03
+date: 2026-03-23
 categories: [Plotly, Angular, Data Visualization]
 tags: [Angular, Data Visualization, Plotly]
 canonical_url: "https://dev.to/josephndungi/building-plots-in-angular-for-data-visualization-487j"
