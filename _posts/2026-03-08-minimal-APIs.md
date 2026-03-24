@@ -1,12 +1,4 @@
----
-title: "Building Modular APIs in .NET Using Carter Modules"
-date: 2026-03-08
-categories: [.NET, Backend, Web API]
-tags: [Minimal APIs, ASP.NET Core]
-canonical_url: ""
-image: https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-description: ""A beginner-friendly guide to building modular and maintainable ASP.NET Core APIs using Carter modules and Minimal APIs."
----
+
 
 # Evaluation Report: Carter for ASP.NET Minimal APIs
 
