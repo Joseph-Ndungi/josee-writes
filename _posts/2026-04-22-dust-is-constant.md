@@ -4,8 +4,8 @@ date: 2026-04-22
 categories: [Love is a beautiful thing]
 tags: [Love is a beautiful thing]
 canonical_url: ""
-image: https://images.unsplash.com/photo-1509518408633-d42f618a2bdc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-description: Dust is the only constant
+image: https://images.unsplash.com/photo-1556375767-65b200d9d3dc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+description: What is love?
 ---
 
 
