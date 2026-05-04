@@ -8,8 +8,6 @@ image: https://images.unsplash.com/photo-1521805103424-d8f8430e8933?q=80&w=1170&
 description: A skinny software engineer walks into a gym. No punchline. Just two years of showing up and figuring it out.
 ---
 
-# I Showed Up Skinny. The Gym Didn't Care. Two Years Later, Neither Do I.
-
 ---
 
 My gym turned two years old last weekend.
