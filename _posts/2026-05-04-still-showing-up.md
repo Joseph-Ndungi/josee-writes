@@ -58,7 +58,7 @@ I started to feel off on the days I skipped.
 
 Not sore. Not tired. Just off. Like something was missing. Like that feeling when you close your laptop and you are almost certain you forgot to commit something but you cannot figure out what. A low level unease that sits in the back of your head all day.
 
-I did not expect that. I thought the gym would always feel like a chore. I thought I would have to drag myself every single time. But it stopped being something I had to do and started being something I just do. Like brushing my teeth. Like opening GitHub first thing in the morning. It is just part of the routine now and skipping it throws the whole day off.
+I did not expect that. I thought the gym would always feel like a chore. I thought I would have to drag myself every single time. But it stopped being something I had to do and started being something I just do. Like brushing my teeth. Like opening my laptop first thing in the morning. It is just part of the routine now and skipping it throws the whole day off.
 
 My body apparently signed a contract I do not remember agreeing to.
 
