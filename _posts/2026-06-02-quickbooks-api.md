@@ -4,7 +4,7 @@ date: 2026-06-02
 categories: [Software Engineering]
 tags: [QuickBooks, API Design, .NET, Integration, Developer Experience]
 canonical_url: ""
-image: https://images.unsplash.com/photo-1521805103424-d8f8430e8933?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+image: https://plus.unsplash.com/premium_photo-1665203618989-e04554a539b1?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 description: A straightforward QuickBooks integration that turned into an OAuth maze, deeply nested JSON, and a Postman collection just to get started. Here is what we built and what good API design should actually look like.
 ---
 
