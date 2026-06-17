@@ -6,8 +6,8 @@ author: Joseph Ndungi
 tags: [career, scam, javascript, angular, nodejs, life]
 categories: [Blog Post, Career]
 canonical_url: "https://blogs.innova.co.ke/progress-is-hard-to-see/"
-image:https://plus.unsplash.com/premium_photo-1664201889896-6a42c19e953a?q=80&w=1236&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 description: I was welcomed in the city as they say
+image: https://plus.unsplash.com/premium_photo-1664201889896-6a42c19e953a?q=80&w=1236&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
 # I Built a Full Weather App for a Fake Job. Here Is the Whole Story.
