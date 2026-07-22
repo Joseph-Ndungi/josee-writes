@@ -3,7 +3,7 @@ title: "When a User Request Challenges Everything"
 date: 2025-09-15
 categories: [Software Design]
 tags: [Software Design]
-canonical_url: ""
+canonical_url: "https://dev.to/josephndungi/when-a-user-request-challenges-everything-jei"
 image: https://pbs.twimg.com/media/EwS1IBqW8AQMpnG?format=jpg&name=small
 description: "We're talking about a recent challenge: a user request to limit editing of unapproved entries to the creator only. See how we navigated this and what we learned about balancing user needs with system security."
 ---
