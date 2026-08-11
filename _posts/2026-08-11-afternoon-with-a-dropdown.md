@@ -190,6 +190,12 @@ next: (res: any[]) => {
 
 Small detail, disproportionately satisfying to watch work. Pick a security, hit run, selections panel politely closes itself, results panel opens up like it has been waiting all day for its turn.
 
+![Selections panel collapsing and results panel expanding after analysis runs](../assets/images/selections.png)
+*Selections collapses, results takes over, no manual toggling needed.*
+
+![Charts](../assets/images/visuals.png)
+*Charts below.*
+
 ## On performance, since it came up
 
 Nothing dramatic to report here, which is the best kind of report. Switching between securities does not refetch anything, the full response is already sitting in memory from the initial call, so `applySelectedSecurity` just filters and remaps existing data. No loading spinners, no network round trips, no reason to write three paragraphs justifying a caching strategy nobody asked for. The helpers are small, pure, and only run when the selection actually changes, so there is no unnecessary recomputation happening in the background either.
@@ -198,6 +204,6 @@ Nothing dramatic to report here, which is the best kind of report. Switching bet
 
 What started as "show the first security's results" is now a proper multi security view. Pick any security from a dropdown, get a comparison grid of fitted distributions, a readable text breakdown, and charts that actually let you see the fit rather than just read numbers about it, all tucked behind two expansion panels that only show you what is relevant at each stage.
 
-Took considerably longer than the "before dinner" estimate I had given myself. Worth it though, and the dropdown and I are on speaking terms again.
+Took considerably longer than the "before EOD" estimate I had given myself. Worth it though, and the dropdown and I are on speaking terms again.
 
-Happy Life.
+Happy Coding!
