@@ -3,6 +3,7 @@ title: "Finding My Rhythm: Coding, Time Changes, and Watching the World Cup at O
 date: 2026-06-29
 categories: [Life, Software Engineering]
 tags: [Coding, Developer Life, Productivity, Motivation, World Cup]
+image: https://images.unsplash.com/photo-1499428665502-503f6c608263?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 description: Adapting to changing routines, discovering when I'm most motivated to code, and watching the World Cup at odd hours.
 ---
 
