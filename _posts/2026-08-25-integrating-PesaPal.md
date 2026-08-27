@@ -1,5 +1,4 @@
 ---
-
 title: "When Sandbox Testing Starts Feeling Too Real: Integrating PesaPal"
 date: 2026-08-25
 Categories: [Backend, Payments, Integration]
