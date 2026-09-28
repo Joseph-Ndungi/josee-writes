@@ -1,6 +1,6 @@
 ---
 title: "The tassel was worth the hassle."
-date: 2023-09-28
+date: 2026-09-28
 categories: [Career, Learning, Reflection, Life]
 tags: [Graduation, Software Development, Python, .NET, MEFMI, Life]
 description: "Three years since stepping onto campus as a wide eyed kid with big dreams. BSc Computer Science, Second Class Upper Division."
