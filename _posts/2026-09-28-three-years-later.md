@@ -1,5 +1,5 @@
 ---
-title: "Three Years Out"
+title: "The tassel was worth the hassle."
 date: 2023-09-28
 categories: [Career, Learning, Reflection, Life]
 tags: [Graduation, Software Development, Python, .NET, MEFMI, Life]
