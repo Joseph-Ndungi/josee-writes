@@ -3,7 +3,7 @@ title: "The tassel was worth the hassle."
 date: 2026-09-28
 categories: [Career, Learning, Reflection, Life]
 tags: [Graduation, Software Development, Python, .NET, MEFMI, Life]
-description: "Three years since stepping onto campus as a wide eyed kid with big dreams. BSc Computer Science, Second Class Upper Division."
+description: "Three years since stepping onto campus as a wide eyed kid with big dreams."
 image: https://plus.unsplash.com/premium_photo-1713296255442-e9338f42aad8?q=80&w=722&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
