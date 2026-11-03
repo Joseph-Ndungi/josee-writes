@@ -7,7 +7,6 @@ description: "QA flagged a broker showing as [NONE]. The API and the stored proc
 image: https://plus.unsplash.com/premium_photo-1733306464128-d6b80ed2f2e2?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D
 ---
 
-**When a Placeholder Becomes Data**
 
 QA flagged a record where the broker came back as `[NONE]`. My first stop was the API, then the stored procedure. Both were innocent. When I looked at the table, the value was right there in the broker column, saved as the text `[NONE]`.
 
